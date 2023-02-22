@@ -14,9 +14,9 @@ I am using OpenZeppelin Upgrdable Proxy approach to make my ERC20 contract Upgra
 
 
 # https://docs.openzeppelin.com/upgrades-plugins/1.x/api-hardhat-upgrades#upgrade-proxy
-Transparent Upgradable Proxy:- https://testnet.bscscan.com/address/0x702d1d3d6d03c60a6b58280eb410c1a590f9136e#writeProxyContract
-Proxy Admin:- https://testnet.bscscan.com/address/0x9d69aa383b4a23e4e3d9e04d5e55230e8a5f8f9b#writeContract
-ERC20:- https://testnet.bscscan.com/address/0x506a8985c3c60206ff53eb9fdc9795327b8504c6#readContract
-ERC20Upgradable:- https://testnet.bscscan.com/address/0x7c67535ff98cd05af46f38b2a79a0a58f182856b#code
+1. Transparent Upgradable Proxy:- https://testnet.bscscan.com/address/0x702d1d3d6d03c60a6b58280eb410c1a590f9136e#writeProxyContract
+2. Proxy Admin:- https://testnet.bscscan.com/address/0x9d69aa383b4a23e4e3d9e04d5e55230e8a5f8f9b#writeContract
+3. ERC20:- https://testnet.bscscan.com/address/0x506a8985c3c60206ff53eb9fdc9795327b8504c6#readContract
+4. ERC20Upgradable:- https://testnet.bscscan.com/address/0x7c67535ff98cd05af46f38b2a79a0a58f182856b#code
 
 
