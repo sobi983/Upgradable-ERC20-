@@ -1,9 +1,9 @@
 # To run this project:-
-1.npm install
-2.npx hardhat run --network testnet scripts/deploy_ERC20.js
-3.npx hardhat verify --network testnet [Address]
-4.npx hardhat run --network testnet scripts/deploy_ERC20Upgradable.js
-5.npx hardhat verify --network testnet [Address]
+1. npm install
+2. npx hardhat run --network testnet scripts/deploy_ERC20.js
+3. npx hardhat verify --network testnet [Address]
+4. npx hardhat run --network testnet scripts/deploy_ERC20Upgradable.js
+5. npx hardhat verify --network testnet [Address]
 
 
 # Few points should be noted before development of the contract
